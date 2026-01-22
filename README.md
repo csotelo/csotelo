@@ -1,25 +1,28 @@
 # Carlos Eduardo Sotelo Pinto 🛡️
 
 **Senior Software & Data Engineer | Python Architect | AWS Cloud Specialist**
-*Clean Architecture • SOLID Principles • Scalable Cloud Systems*
+*Crafting Scalable Code, Crafting Award-Winning Mead.*
 
 ---
 
-### 👨‍💻 Engineering Philosophy
+### 👨‍💻 About Me
 
-I am a Senior Engineer focused on designing high-performance backends and cloud-native infrastructures. My work is guided by the pursuit of **Clean Code** and **Maintainable Architecture**, ensuring that complex systems remain scalable and robust. 
+I am a Senior Engineer focused on **Clean Code** and **Clean Architecture**. I believe that no single framework is a "silver bullet"; instead, I advocate for the synergy of tools—often finding that a combination of **Django + FastAPI** provides the best approach for robust, scalable backends.
 
-As a **Tryton Open Source Activist**, I contribute to building modular, reliable software ecosystems. Beyond the code, I apply the same architectural precision to fermentation as a **BJCP Mead Judge**, finding the perfect intersection between chemistry, craft, and technical complexity.
+My core expertise lies in the **Python ecosystem** and **AWS Cloud infrastructure**, where I architect systems that bridge the gap between high-performance backends and actionable data insights. As a **Tryton Open Source Activist**, I remain committed to community-driven software standards.
+
+Outside of engineering, I am a **BJCP Mead Judge** and spend time at my own meadery. While I am passionate about my craft, my best choice and greatest priority is spending quality **family time**.
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🛠️ Core Tech Stack
 
-- **Backend Architecture:** Python (Expert), Django, FastAPI, Tryton (ERP)
-- **Cloud Infrastructure:** AWS (EC2, Lambda, S3, RDS, IAM, VPC)
-- **Patterns & Standards:** Clean Architecture, SOLID, TDD, Domain-Driven Design
-- **Data Engineering:** ETL Pipelines, Metabase, Power BI, SQL Optimization
-- **Operational Excellence:** Docker, CI/CD, Scrum, Kanban
+- **Languages:** Python, SQL
+- **Architecture:** Clean Architecture, SOLID, Design Patterns
+- **Frameworks:** Django + FastAPI (Better Together), Tryton (ERP)
+- **Cloud (AWS):** EC2, Lambda, S3, RDS, IAM, CloudWatch
+- **Data & Analytics:** Metabase, Power BI, ETL Pipelines
+- **Methodologies:** Scrum, Kanban, Remote Leadership
 
 ---
 
@@ -36,7 +39,7 @@ As a **Tryton Open Source Activist**, I contribute to building modular, reliable
 
 ---
 
-### 🔗 Connect & Technical Blog
+### 🔗 Connect & Explore
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlossotelopinto/)
 [![Dev.to](https://img.shields.io/badge/Technical_Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/csotelo/)
@@ -44,4 +47,4 @@ As a **Tryton Open Source Activist**, I contribute to building modular, reliable
 [![GitHub](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/csotelo/)
 
 ---
-*“Clean code always looks like it was written by someone who cares.” — Focused on Pythonic Architecture.*
+*“Simplicity is the ultimate sophistication.” — Focused on Pythonic excellence.*
