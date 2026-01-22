@@ -38,6 +38,7 @@ As a **Tryton Open Source Activist**, I am passionate about community-driven sof
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlossotelopinto/)
 [![Dev.to](https://img.shields.io/badge/Technical_Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/csotelo/)
+[![AWS Builder](https://img.shields.io/badge/AWS_BUILDER-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://builder.aws.com/community/@csotelo)
 [![GitHub](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/csotelo/)
 
 ---
