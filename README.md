@@ -1,24 +1,26 @@
 # Carlos Eduardo Sotelo Pinto 🛡️
 
-**Senior Software & Data Engineer | Python Architect | AWS Cloud Specialist** *Crafting Scalable Code, Crafting Award-Winning Mead.*
+**Senior Software & Data Engineer | Python Architect | AWS Cloud Specialist**
+*Clean Architecture • SOLID Principles • Scalable Cloud Systems*
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Engineering Philosophy
 
-I am a Senior Engineer dedicated to building high-performance systems and data-driven solutions. My expertise lies in the **Python ecosystem** and **AWS Cloud infrastructure**, where I bridge the gap between robust backend architecture and actionable data insights.
+I am a Senior Engineer focused on designing high-performance backends and cloud-native infrastructures. My work is guided by the pursuit of **Clean Code** and **Maintainable Architecture**, ensuring that complex systems remain scalable and robust. 
 
-As a **Tryton Open Source Activist**, I am passionate about community-driven software. When I'm not architecting code, I apply the same precision to fermentation as a **BJCP Mead Judge**, finding the perfect balance between technical complexity and artisanal craft.
+As a **Tryton Open Source Activist**, I contribute to building modular, reliable software ecosystems. Beyond the code, I apply the same architectural precision to fermentation as a **BJCP Mead Judge**, finding the perfect intersection between chemistry, craft, and technical complexity.
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Technical Ecosystem
 
-- **Languages:** Python, SQL
-- **Frameworks:** Django, FastAPI, Tryton (ERP)
-- **Cloud (AWS):** EC2, Lambda, S3, RDS, IAM
-- **Data & Analytics:** Metabase, Power BI, ETL Pipelines
-- **Methodologies:** Scrum, Kanban, Remote Leadership
+- **Backend Architecture:** Python (Expert), Django, FastAPI, Tryton (ERP)
+- **Cloud Infrastructure:** AWS (EC2, Lambda, S3, RDS, IAM, VPC)
+- **Patterns & Standards:** Clean Architecture, SOLID, TDD, Domain-Driven Design
+- **Data Engineering:** ETL Pipelines, Metabase, Power BI, SQL Optimization
+- **Operational Excellence:** Docker, CI/CD, Scrum, Kanban
+
 ---
 
 ### 📊 Engineering Metrics
@@ -34,7 +36,7 @@ As a **Tryton Open Source Activist**, I am passionate about community-driven sof
 
 ---
 
-### 🔗 Connect & Explore
+### 🔗 Connect & Technical Blog
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlossotelopinto/)
 [![Dev.to](https://img.shields.io/badge/Technical_Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/csotelo/)
@@ -42,4 +44,4 @@ As a **Tryton Open Source Activist**, I am passionate about community-driven sof
 [![GitHub](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/csotelo/)
 
 ---
-*“Simplicity is the ultimate sophistication.” — Focused on Pythonic excellence.*
+*“Clean code always looks like it was written by someone who cares.” — Focused on Pythonic Architecture.*
