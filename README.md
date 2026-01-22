@@ -14,12 +14,11 @@ As a **Tryton Open Source Activist**, I am passionate about community-driven sof
 
 ### 🛠️ Core Tech Stack
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-- **Frameworks:** `Django` • `FastAPI` • `Tryton (ERP)`
-- **Cloud:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) (EC2, Lambda, S3, RDS, IAM)
-- **Data:** `Metabase` • `Power BI` • `ETL Pipelines`
-- **Methodology:** `Scrum` • `Kanban` • `Remote Leadership`
-
+- **Languages:** Python, SQL
+- **Frameworks:** Django, FastAPI, Tryton (ERP)
+- **Cloud (AWS):** EC2, Lambda, S3, RDS, IAM
+- **Data & Analytics:** Metabase, Power BI, ETL Pipelines
+- **Methodologies:** Scrum, Kanban, Remote Leadership
 ---
 
 ### 📊 Engineering Metrics
