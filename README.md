@@ -29,7 +29,7 @@ Beyond the screen, I am a **BJCP Mead Judge** and an avid nature explorer. This 
 
 ### 📊 GitHub Stats
 
-![Carlos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=csotelo&theme=minimal&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csotelo&theme=github)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=csotelo&theme=github&layout=compact)
 
