@@ -25,14 +25,12 @@ As a **Tryton Open Source Activist**, I am passionate about community-driven sof
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csotelo&theme=github" width="400" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csotelo&layout=compact&theme=minimal&hide_border=true&langs_count=6&hide=jupyter%20notebook" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csotelo&theme=github" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=csotelo&show_icons=true&theme=minimal&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-status?username=csotelo&theme=github" width="400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csotelo&layout=compact&theme=minimal&hide_border=true&langs_count=6&hide=jupyter%20notebook" width="400" />
 </p>
 
 ---
