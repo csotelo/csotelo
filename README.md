@@ -1,44 +1,37 @@
-# Carlos Eduardo Sotelo Pinto
+### Hi there 👋, I'm Carlos Eduardo Sotelo Pinto
 
-> **Software & Data Engineer** > Python | Tryton | Metabase | Django | FastAPI | AWS  
-> *Crafting Code, Crafting Mead* 🍯
+**Software & Data Engineer | Python | AWS | Open Source Activist** *Crafting Code, Crafting Mead.*
 
----
+I am a passionate Python developer focused on building elegant, efficient, and scalable solutions. With a strong background in Agile methodologies (Scrum/Kanban), I lead development teams and mentor the next generation of engineers.
 
-### 👨‍💻 About Me
-
-I am a passionate **Python Developer** focused on creating elegant, efficient code. With a solid foundation in **Agile methodologies** (Scrum, Kanban), I have successfully led and mentored development teams to build scalable solutions.
-
-Beyond the screen, I am a **BJCP Mead Judge** and brewer. Whether I'm architecting cloud infrastructure on **AWS** or elaborating my own mead, I believe in precision, creativity, and finding a healthy balance between life and work.
-
-* 🔭 **Current Focus:** Python Development, AWS Architecture, and Data Engineering.
-* 🌱 **Learning:** Continually deepening knowledge in Cloud Native tools and Craft Brewing.
-* 📍 **Location:** Arequipa, Peru
+Beyond the screen, I am a **BJCP Mead Judge** and an avid nature explorer. This balance allows me to bring a fresh perspective to my work, blending the precision of code with the art of brewing.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-* **Core:** Python, SQL
-* **Frameworks:** Django, FastAPI, Tryton
-* **Data & Cloud:** Metabase, AWS, PostgreSQL
-* **Tools:** Neovim, Tmux, Docker, Git
+**Languages & Frameworks** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Tryton](https://img.shields.io/badge/Tryton-Open_Source_ERP-blue)
 
----
+**Cloud & DevOps** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-[![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=csotelo&show_icons=true&theme=minimal&hide_border=true&count_private=true)](https://github.com/csotelo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csotelo&layout=compact&theme=minimal&hide_border=true)](https://github.com/csotelo)
-
-</div>
+**Data & Analytics** ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
-### 🔗 Connect
+### 📊 GitHub Stats
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlossotelopinto/)
-[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/csotelo/)
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=csotelo&show_icons=true&theme=minimal&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csotelo&layout=compact&theme=minimal&hide_border=true&langs_count=6)
+
+---
+
+### 🔗 Connect with me
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlossotelopinto/)
+[![](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/csotelo/)
