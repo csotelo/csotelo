@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Carlos Eduardo Sotelo Pinto
 
-**Software & Data Engineer | Python | AWS | Open Source Activist** *Crafting Code, Crafting Mead.*
+**Software & Data Engineer | Python | AWS | Open Source Activist**
+*Crafting Code, Crafting Mead.*
 
 I am a passionate Python developer focused on building elegant, efficient, and scalable solutions. With a strong background in Agile methodologies (Scrum/Kanban), I lead development teams and mentor the next generation of engineers.
 
@@ -10,24 +11,27 @@ Beyond the screen, I am a **BJCP Mead Judge** and an avid nature explorer. This 
 
 ### 🛠 Tech Stack
 
-**Languages & Frameworks** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Tryton](https://img.shields.io/badge/Tryton-Open_Source_ERP-blue)
 
-**Cloud & DevOps** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Data & Analytics** ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+**Data & Analytics**
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=csotelo&show_icons=true&theme=minimal&count_private=true&hide_border=true)
+![Carlos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=csotelo&theme=minimal&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csotelo&layout=compact&theme=minimal&hide_border=true&langs_count=6)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=csotelo&theme=github&layout=compact)
 
 ---
 
