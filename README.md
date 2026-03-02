@@ -1,6 +1,7 @@
 # Carlos Eduardo Sotelo Pinto 🛡️
 
 **Senior Software & Data Engineer | Python Architect | AWS Cloud Specialist**
+
 *Crafting Scalable Code, Crafting Award-Winning Mead.*
 
 ---
